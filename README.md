@@ -1,8 +1,5 @@
 # CCS 2214 – Data Structures and Algorithms: Task 3 (Code Questions)
 
-Faculty of Computing and Information Technology, Multimedia University of Kenya
-Student: Kiplangat | Reg. No: CIT-227-052/2025
-
 All programs are written in C and were compiled with `gcc -Wall -Wextra` with no warnings.
 
 | File | Question | What it does |
